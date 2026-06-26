@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/PooyaValizadeh/PooyaValizadeh/blob/main/gifs/249072741.jpeg)
+![Logo](https://github.com/PooyaValizadeh/PooyaValizadeh/blob/main/gifs/amZqT.png)
 
 
 # Small ML Projects Built by Pooya
