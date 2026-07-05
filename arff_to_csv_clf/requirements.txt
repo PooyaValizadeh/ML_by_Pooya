@@ -1,0 +1,6 @@
+lazypredict
+arff-csv-converter
+numpy
+pandas
+scikit-learn
+plotly
