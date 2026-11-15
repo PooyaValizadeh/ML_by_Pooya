@@ -17,7 +17,7 @@ A learning portfolio of machine-learning, deep-learning, data-analysis, and NLP 
 │   │   ├── ai-diddy/
 │   │   └── DL_bool_sheets/              # Dated experiments, CIFAR-10, YOLO, segmentation
 │   └── regression/
-│       └── china-gdp/
+│       └── 
 ├── tutorials/
 │   ├── pandas/
 │   ├── preprocessing/
