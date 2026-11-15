@@ -6,8 +6,6 @@ A learning portfolio of machine-learning, deep-learning, data-analysis, and NLP 
 
 ```text
 .
-├── courses/
-│   └── ibm-machine-learning/       # IBM ML course notebooks and their datasets
 ├── projects/
 │   ├── classification/
 │   │   ├── arff-to-csv/
@@ -17,9 +15,7 @@ A learning portfolio of machine-learning, deep-learning, data-analysis, and NLP 
 │   │   └── series/
 │   ├── deep-learning/
 │   │   ├── ai-diddy/
-│   │   └── notebooks/              # Dated experiments, CIFAR-10, YOLO, segmentation
-│   ├── nlp/
-│   │   └── maktabkhooneh/
+│   │   └── DL_bool_sheets/              # Dated experiments, CIFAR-10, YOLO, segmentation
 │   └── regression/
 │       └── china-gdp/
 ├── tutorials/
