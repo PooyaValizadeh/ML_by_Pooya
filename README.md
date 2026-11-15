@@ -36,7 +36,7 @@ A learning portfolio of machine-learning, deep-learning, data-analysis, and NLP 
 | IBM machine learning course | Classification, regression, and clustering exercises, with course datasets |
 | Classification | Telecom customer classification and ARFF-to-CSV workflow |
 | Clustering | Fuel-consumption and streaming-series clustering |
-| Regression | China GDP polynomial/regression experiment |
+| Regression | ___________ |
 | NLP | Maktabkhooneh project |
 | Tutorials | Pandas tips, preprocessing experiments, and scikit-learn pipelines |
 
